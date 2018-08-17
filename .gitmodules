@@ -1,0 +1,3 @@
+[submodule "Carthage/Checkouts/GHODictionary"]
+	path = Carthage/Checkouts/GHODictionary
+	url = https://github.com/gabriel/GHODictionary.git
